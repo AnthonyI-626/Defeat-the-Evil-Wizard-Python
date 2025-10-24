@@ -133,7 +133,7 @@ class EvilWizard(Character):
         
 
 
-# Create Archer class
+# Create Rogue class
 
 class Rogue(Character):
     def __init__(self, name):
