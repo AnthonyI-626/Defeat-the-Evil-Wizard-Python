@@ -1,0 +1,2 @@
+For this project I created a text-based RPG using basic OOP in python.
+In this game you will have the option to choose between 4 character classes that each have their own unique abilities both active and passive. Your goal is to defeat the evil wizard utilizing different strategies that are unique to each class. Take advantage of the diffrent tool, buffs, and debuffs each character has to help you win, but be careful the evil wizard can and will do that too.
