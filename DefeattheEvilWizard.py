@@ -183,12 +183,6 @@ class Paladin(Character):
         opponent.health -= damage
         print(f'--{ self.name} uses Vengful Strike to deal {damage} damage!')
         
-        
-        
-        
-        
-    
-
 
 
 def create_character():
